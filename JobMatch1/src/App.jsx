@@ -24,17 +24,7 @@ export default function App() {
 
   return (
     <div className="app">
-      {/* Top strip */}
-      <div className="topstrip">
-        <div className="container topstrip__in">
-          <p>Contractors: Elevate Your Resume, Secure Your Future.</p>
-          <nav className="smallnav">
-            <a href="#signin">Sign In</a>
-            <a href="#login">Login</a>
-          </nav>
-        </div>
-      </div>
-
+      
       {/* Header */}
       <header className="header">
         <div className="container header__in">
